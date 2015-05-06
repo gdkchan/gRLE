@@ -120,7 +120,7 @@ namespace gRLE
             }
 
             uint decompressedLength = reader.ReadUInt32();
-            while (input.Position < input.Length)
+            while (input.Position < input.Length - 1)
             {
                 ushort header = reader.ReadUInt16();
                 ushort length = (ushort)(header & 0x7fff);

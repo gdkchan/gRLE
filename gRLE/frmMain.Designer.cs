@@ -119,13 +119,13 @@
             this.label1.Font = new System.Drawing.Font("Segoe UI", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label1.Location = new System.Drawing.Point(12, 18);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(46, 13);
+            this.label1.Size = new System.Drawing.Size(50, 13);
             this.label1.TabIndex = 3;
-            this.label1.Text = "Lagura:";
+            this.label1.Text = "Largura:";
             // 
             // textBox1
             // 
-            this.textBox1.Location = new System.Drawing.Point(64, 15);
+            this.textBox1.Location = new System.Drawing.Point(68, 15);
             this.textBox1.Name = "textBox1";
             this.textBox1.Size = new System.Drawing.Size(64, 22);
             this.textBox1.TabIndex = 3;
